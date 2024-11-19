@@ -1,4 +1,4 @@
-# Unity week 1: The basics
+# Unity - Components
 Oscillator, Rotator, Scaler, and Hide Button
 
 Itch.io Link:
